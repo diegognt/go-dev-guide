@@ -1,3 +1,3 @@
-module dev-guide
+module devguide
 
 go 1.19
